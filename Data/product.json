@@ -3,19 +3,19 @@
       "id": "6356b8437aa952911eab0b02",
       "picture": "https://images.unsplash.com/photo-1609167830220-7164aa360951?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
       "name": "Burger",
-      "category id" : 1
+      "category_id" : 1
     },
     {
       "id": "6356b843e8b3ed774a7368a7",
       "picture": "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
       "name": "Pizza",
-      "category id" : 2
+      "category_id" : 2
     },
     {
       "id": "6356b84352a396698706b2f2",
       "picture": "https://images.unsplash.com/photo-1457518919282-b199744eefd6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80",
       "name": "Frozen Drinks",
-      "category id" : 3
+      "category_id" : 3
 
     }
   ]
