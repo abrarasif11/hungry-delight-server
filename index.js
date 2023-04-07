@@ -12,6 +12,11 @@ app.get("/foodItems", (req, res) => {
     res.send(foodItems);
 });
 
+const allFoodItems = require('./Data/allProducts.json')
+app.get("/allFoodItems", (req, res) => {
+    res.send(allFoodItems)
+})
+
 app.get('/', (req, res) => {
     res.send('Hungry Delight Server is Running')
 });
